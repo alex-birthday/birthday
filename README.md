@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>生日快乐！劳棒</title>
+  <title>生日快乐！</title>
   <style>
     body{
       margin:0;
@@ -47,7 +47,7 @@
   <canvas class="confetti" id="c"></canvas>
 
   <div class="card">
-    <h1>🎂 生日快乐，<span class="name" id="who">我的兄弟</span>！</h1>
+    <h1>🎂 生日快乐，<span class="name" id="who">我的兄弟！</h1>
 
     <p id="msg">
       认识这么久了，我们吵过、哭过，也都和好了。<br/>
@@ -65,7 +65,7 @@
 
   <script>
     // ====== 你只改这里两行就行 ======
-    const friendName = "（劳棒）";
+    const friendName = "劳棒）";
     const message = `认识这么久了，我们吵过、哭过，也都和好了。
 你一直是我很重要的人。希望你新的一岁，开心多一点，烦恼少一点，
 也一直做你自己——我永远站你这边。`;
